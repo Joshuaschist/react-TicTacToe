@@ -1,12 +1,12 @@
 .board_box {
 	display: flex;
-	alin-items: center;
+	align-items: center;
 	justify-content: center;
 	padding: 0;
 	width: calc(250px / 3);
 	height:  calc(250px / 3);
 	font-size: 32px;
-	color: #111;
-	background-color: #fff;
+	color: #AA0941;
+	background-color: #2A8D16;
 	border: 1px solid #aaa;
 }
